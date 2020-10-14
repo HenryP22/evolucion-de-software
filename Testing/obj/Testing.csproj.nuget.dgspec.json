@@ -1,6 +1,28 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Testing\\Testing.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Testing\\Testing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Testing\\Testing.csproj",
+        "projectName": "Testing",
+        "projectPath": "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Testing\\Testing.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Testing\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+=======
     "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Testing\\Testing.csproj": {}
   },
   "projects": {
@@ -16,6 +38,7 @@
         "configFilePaths": [
           "C:\\Users\\henrr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> master
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -27,8 +50,13 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+<<<<<<< HEAD
+              "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Tutofinder\\TutoFinder.csproj": {
+                "projectPath": "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Tutofinder\\TutoFinder.csproj"
+=======
               "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj": {
                 "projectPath": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj"
+>>>>>>> master
               }
             }
           }
@@ -81,6 +109,29 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Tutofinder\\TutoFinder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Tutofinder\\TutoFinder.csproj",
+        "projectName": "TutoFinder",
+        "projectPath": "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Tutofinder\\TutoFinder.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Tutofinder\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
@@ -97,6 +148,7 @@
         "configFilePaths": [
           "C:\\Users\\henrr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> master
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -192,7 +244,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+>>>>>>> master
         }
       }
     }
