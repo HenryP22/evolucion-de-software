@@ -152,6 +152,7 @@ C:\Users\henrr\OneDrive\Documents\GitHub\evolucion-de-software\Testing\bin\Debug
 C:\Users\henrr\OneDrive\Documents\GitHub\evolucion-de-software\Testing\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\henrr\OneDrive\Documents\GitHub\evolucion-de-software\Testing\obj\Debug\netcoreapp3.1\Testing.dll
 C:\Users\henrr\OneDrive\Documents\GitHub\evolucion-de-software\Testing\obj\Debug\netcoreapp3.1\Testing.pdb
+<<<<<<< HEAD
 C:\Users\usuario\Desktop\evolucion-de-software-master\Testing\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\usuario\Desktop\evolucion-de-software-master\Testing\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\usuario\Desktop\evolucion-de-software-master\Testing\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -306,3 +307,5 @@ C:\Users\usuario\Desktop\evolucion-de-software-master\Testing\obj\Debug\netcorea
 C:\Users\usuario\Desktop\evolucion-de-software-master\Testing\obj\Debug\netcoreapp3.1\Testing.dll
 C:\Users\usuario\Desktop\evolucion-de-software-master\Testing\obj\Debug\netcoreapp3.1\Testing.pdb
 C:\Users\usuario\Desktop\evolucion-de-software-master\Testing\obj\Debug\netcoreapp3.1\Testing.genruntimeconfig.cache
+=======
+>>>>>>> master
