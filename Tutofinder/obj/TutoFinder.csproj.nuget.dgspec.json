@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj": {}
+    "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Tutofinder\\TutoFinder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj": {
+    "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Tutofinder\\TutoFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Tutofinder\\TutoFinder.csproj",
         "projectName": "TutoFinder",
-        "projectPath": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj",
-        "packagesPath": "C:\\Users\\henrr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Tutofinder\\obj\\",
+        "projectPath": "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Tutofinder\\TutoFinder.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usuario\\Desktop\\evolucion-de-software-master\\Tutofinder\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\henrr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -111,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
