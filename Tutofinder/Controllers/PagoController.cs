@@ -19,6 +19,7 @@ namespace TutoFinder.Controllers
         {
             _PagoService = PagoService;
         }
+
         [HttpGet]
         public async Task<ActionResult<DataCollection<PagoDto>>> GetAll(int page, int take)
         {
@@ -35,6 +36,7 @@ namespace TutoFinder.Controllers
             else
                 return NotFound();
         }
+        
         [HttpPost]
         public async Task<ActionResult> Create(PagoCreateDto Pago)
         {
@@ -44,6 +46,7 @@ namespace TutoFinder.Controllers
                 new { id = result.PagoId },
                 result);
         }
+        
         [HttpPut("{id}")]
         public async Task<ActionResult> Update(int id, PagoUpdateDto model)
         {
@@ -55,6 +58,7 @@ namespace TutoFinder.Controllers
             else
                 return NotFound();
         }
+        
         [HttpDelete("{id}")]
         public async Task<ActionResult> Remove(int id)
         {
