@@ -29,13 +29,13 @@ namespace AcceptanceTests.Steps
         {
             ScenarioContext.Current.Pending();
         }
-        
-        [When(@"se encuentre en la sección ""(.*)"" de su perfil")]
-        public void WhenSeEncuentreEnLaSeccionDeSuPerfil(string p0)
+
+        [When(@"se encuentre en la sección “Calificaciones” de su perfil")]
+        public void WhenSeEncuentreEnLaSeccionCalificacionesDeSuPerfil()
         {
             ScenarioContext.Current.Pending();
         }
-        
+
         [When(@"se encuentra en la su perfil y en la sección comentarios")]
         public void WhenSeEncuentraEnLaSuPerfilYEnLaSeccionComentarios()
         {

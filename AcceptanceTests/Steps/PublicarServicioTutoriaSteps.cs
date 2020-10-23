@@ -36,14 +36,14 @@ namespace AcceptanceTests.Steps
             ScenarioContext.Current.Pending();
         }
         
-        [When(@"ya haya ingresado todos los datos de la tutoría, este se dirigirá a la opción ""(.*)""")]
-        public void WhenYaHayaIngresadoTodosLosDatosDeLaTutoriaEsteSeDirigiraALaOpcion(string p0)
+        [When(@"ya haya ingresado todos los datos de la tutoría, este se dirigirá a la opción “Siguiente”")]
+        public void WhenYaHayaIngresadoTodosLosDatosDeLaTutoriaEsteSeDirigiraALaOpcionSiguiente()
         {
             ScenarioContext.Current.Pending();
         }
         
-        [When(@"este se diriga a la opción ""(.*)""")]
-        public void WhenEsteSeDirigaALaOpcion(string p0)
+        [When(@"este se diriga a la opción “anterior”")]
+        public void WhenEsteSeDirigaALaOpcionAnterior()
         {
             ScenarioContext.Current.Pending();
         }
@@ -72,8 +72,8 @@ namespace AcceptanceTests.Steps
             ScenarioContext.Current.Pending();
         }
         
-        [Then(@"es así seleccionará la opción ""(.*)""")]
-        public void ThenEsAsiSeleccionaraLaOpcion(string p0)
+        [Then(@"es así seleccionará la opción “Publicar”")]
+        public void ThenEsAsiSeleccionaraLaOpcionPublicar()
         {
             ScenarioContext.Current.Pending();
         }
