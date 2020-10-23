@@ -107,7 +107,6 @@ namespace Testing.Testing
 
             //Prueba
 
-            int id = 1;
             var controller = new PadreServiceImpl(context, mapper);
 
             await controller.Create(PadreCreateDTO);

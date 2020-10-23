@@ -15,13 +15,6 @@ namespace Testing.Testing
     public class PagoControllerTests : BasePruebas
     {
         [TestMethod()]
-        public void PagoControllerTest()
-        {
-
-            Assert.Fail();
-        }
-
-        [TestMethod()]
         public async System.Threading.Tasks.Task GetAllTestAsync()
         {
 
@@ -297,20 +290,22 @@ namespace Testing.Testing
 
             context.Pagos.Add(new Pago()
             {
-                PagoId = 99,
+                PagoId = 1,
                 TarjetaId = 1,
                 TutoriaId = 2,
                 Descripcion = "Pago por tutoria de algoritmos",
                 CvcTarjeta = "881"
             });
-
+          
             await context.SaveChangesAsync();
 
             //Prueba
 
-            var controller = new PagoServiceImpl(context, mapper);
+            var context2 = ConstruirContext(nombreDB);
 
-            await controller.Remove(99);
+            var controller = new PagoServiceImpl(context2, mapper);
+
+            await controller.Remove(1);
 
             //Verificación
 
@@ -318,5 +313,6 @@ namespace Testing.Testing
             var existe = await context3.Pagos.AnyAsync();
             Assert.IsFalse(existe);
         }
+       
     }
 }
