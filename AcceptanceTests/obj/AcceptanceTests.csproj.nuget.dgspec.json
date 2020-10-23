@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\AcceptanceTests\\AcceptanceTests.csproj": {}
+    "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\AcceptanceTests\\AcceptanceTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\AcceptanceTests\\AcceptanceTests.csproj": {
+    "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\AcceptanceTests\\AcceptanceTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\AcceptanceTests\\AcceptanceTests.csproj",
+        "projectUniqueName": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\AcceptanceTests\\AcceptanceTests.csproj",
         "projectName": "AcceptanceTests",
-        "projectPath": "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\AcceptanceTests\\AcceptanceTests.csproj",
-        "packagesPath": "C:\\Users\\slayz.DESKTOP-9QQK0G7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\AcceptanceTests\\obj\\",
+        "projectPath": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\AcceptanceTests\\AcceptanceTests.csproj",
+        "packagesPath": "C:\\Users\\henrr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\AcceptanceTests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\slayz.DESKTOP-9QQK0G7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\henrr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,6 +45,22 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[3.15.1, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.4.31, )"
+            },
+            "SpecFlow.Assist.Dynamic": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.4.31, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.4.31, )"
             },
             "nunit": {
               "target": "Package",

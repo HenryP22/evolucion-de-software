@@ -157,3 +157,4 @@ C:\Users\henrr\OneDrive\Documents\GitHub\evolucion-de-software\AcceptanceTests\b
 C:\Users\henrr\OneDrive\Documents\GitHub\evolucion-de-software\AcceptanceTests\bin\Debug\netcoreapp3.1\Dynamitey.dll
 C:\Users\henrr\OneDrive\Documents\GitHub\evolucion-de-software\AcceptanceTests\bin\Debug\netcoreapp3.1\SpecFlow.Assist.Dynamic.dll
 C:\Users\henrr\OneDrive\Documents\GitHub\evolucion-de-software\AcceptanceTests\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\henrr\OneDrive\Documents\GitHub\evolucion-de-software\AcceptanceTests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
