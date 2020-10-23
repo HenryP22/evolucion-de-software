@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\Testing\\Testing.csproj": {}
+    "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Testing\\Testing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\Testing\\Testing.csproj": {
+    "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Testing\\Testing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\Testing\\Testing.csproj",
+        "projectUniqueName": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Testing\\Testing.csproj",
         "projectName": "Testing",
-        "projectPath": "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\Testing\\Testing.csproj",
-        "packagesPath": "C:\\Users\\slayz.DESKTOP-9QQK0G7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\Testing\\obj\\",
+        "projectPath": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Testing\\Testing.csproj",
+        "packagesPath": "C:\\Users\\henrr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Testing\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\slayz.DESKTOP-9QQK0G7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\henrr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj": {
-                "projectPath": "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj"
+              "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj": {
+                "projectPath": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj"
               }
             }
           }
@@ -88,20 +85,17 @@
         }
       }
     },
-    "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj": {
+    "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj",
+        "projectUniqueName": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj",
         "projectName": "TutoFinder",
-        "projectPath": "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj",
-        "packagesPath": "C:\\Users\\slayz.DESKTOP-9QQK0G7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slayz.DESKTOP-9QQK0G7\\OneDrive\\Documentos\\Projects\\evolucion-de-software\\Tutofinder\\obj\\",
+        "projectPath": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Tutofinder\\TutoFinder.csproj",
+        "packagesPath": "C:\\Users\\henrr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henrr\\OneDrive\\Documents\\GitHub\\evolucion-de-software\\Tutofinder\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\slayz.DESKTOP-9QQK0G7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\henrr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
